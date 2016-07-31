@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\bin\Debug\Ejemplo_LeerA.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\bin\Debug\Ejemplo_LeerA.exe
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\bin\Debug\Ejemplo_LeerA.pdb
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\bin\Debug\Ejemplo_LeerA.xml
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\obj\Debug\Ejemplo_LeerA.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\obj\Debug\Ejemplo_LeerA.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\obj\Debug\Ejemplo_LeerA.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\obj\Debug\Ejemplo_LeerA.exe
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\obj\Debug\Ejemplo_LeerA.xml
+C:\Users\JAEL\Documents\Progra Vis\Ejemplo_LeerA\Ejemplo_LeerA\obj\Debug\Ejemplo_LeerA.pdb

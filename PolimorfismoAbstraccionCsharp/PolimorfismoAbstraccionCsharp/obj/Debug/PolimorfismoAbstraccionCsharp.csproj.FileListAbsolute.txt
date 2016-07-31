@@ -1,0 +1,6 @@
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoAbstraccionCsharp\PolimorfismoAbstraccionCsharp\bin\Debug\PolimorfismoAbstraccionCsharp.exe.config
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoAbstraccionCsharp\PolimorfismoAbstraccionCsharp\bin\Debug\PolimorfismoAbstraccionCsharp.exe
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoAbstraccionCsharp\PolimorfismoAbstraccionCsharp\bin\Debug\PolimorfismoAbstraccionCsharp.pdb
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoAbstraccionCsharp\PolimorfismoAbstraccionCsharp\obj\Debug\PolimorfismoAbstraccionCsharp.csprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoAbstraccionCsharp\PolimorfismoAbstraccionCsharp\obj\Debug\PolimorfismoAbstraccionCsharp.exe
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoAbstraccionCsharp\PolimorfismoAbstraccionCsharp\obj\Debug\PolimorfismoAbstraccionCsharp.pdb

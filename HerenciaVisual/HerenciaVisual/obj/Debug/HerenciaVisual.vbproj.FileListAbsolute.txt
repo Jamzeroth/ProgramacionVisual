@@ -1,0 +1,27 @@
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.exe.config
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.exe
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.pdb
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.xml
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Estudiante1.resources
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.MENU.resources
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Resources.resources
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Persona1.resources
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Profesor1.resources
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.vbproj.GenerateResource.Cache
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.exe
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.xml
+C:\Users\carlos\Desktop\programas visual basic\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.pdb
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.exe.config
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.exe
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.xml
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.pdb
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.exe
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.pdb
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\bin\Debug\HerenciaVisual.xml
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.vbprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Estudiante1.resources
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.MENU.resources
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Persona1.resources
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.Profesor1.resources
+C:\Users\JAEL\Documents\Progra Vis\HerenciaVisual\HerenciaVisual\obj\Debug\HerenciaVisual.vbproj.GenerateResource.Cache

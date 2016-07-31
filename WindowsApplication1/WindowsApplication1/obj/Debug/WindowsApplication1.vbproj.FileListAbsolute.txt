@@ -1,0 +1,12 @@
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Deportivo1.resources
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MENU.resources
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Zapato1.resources
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\JAEL\Documents\Progra Vis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

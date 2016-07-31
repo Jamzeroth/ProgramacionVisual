@@ -1,0 +1,11 @@
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\bin\Debug\Controles2.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.MsgBox.resources
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\bin\Debug\Controles2.exe
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\bin\Debug\Controles2.pdb
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\bin\Debug\Controles2.xml
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.exe
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.xml
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.pdb
+C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.InputBoxhola.resources

@@ -1,0 +1,15 @@
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\bin\Debug\Programa1.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\bin\Debug\Programa1.exe
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\bin\Debug\Programa1.pdb
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\bin\Debug\Programa1.xml
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.exe
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.xml
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.pdb
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.vbprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.Calculadora.resources
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.Form2.resources
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.Persona.resources
+C:\Users\JAEL\Documents\Progra Vis\Programa1\Programa1\obj\Debug\Programa1.EjercicioOrdenCompra.resources

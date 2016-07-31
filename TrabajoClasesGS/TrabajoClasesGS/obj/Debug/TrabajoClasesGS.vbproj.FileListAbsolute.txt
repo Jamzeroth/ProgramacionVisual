@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\bin\Debug\TrabajoClasesGS.exe.config
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\bin\Debug\TrabajoClasesGS.exe
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\bin\Debug\TrabajoClasesGS.pdb
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\bin\Debug\TrabajoClasesGS.xml
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\obj\Debug\TrabajoClasesGS.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\obj\Debug\TrabajoClasesGS.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\obj\Debug\TrabajoClasesGS.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\obj\Debug\TrabajoClasesGS.exe
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\obj\Debug\TrabajoClasesGS.xml
+C:\Users\JAEL\Documents\Progra Vis\TrabajoClasesGS\TrabajoClasesGS\obj\Debug\TrabajoClasesGS.pdb

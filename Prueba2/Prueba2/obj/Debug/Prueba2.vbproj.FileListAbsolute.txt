@@ -1,0 +1,12 @@
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\bin\Debug\Prueba2.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\bin\Debug\Prueba2.xml
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.exe
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.xml
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.pdb
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.Form2.resources
+C:\Users\JAEL\Documents\Progra Vis\Prueba2\Prueba2\obj\Debug\Prueba2.Form3.resources

@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\bin\Debug\FormMDI.exe.config
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\bin\Debug\FormMDI.exe
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\bin\Debug\FormMDI.pdb
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\bin\Debug\FormMDI.xml
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\obj\Debug\FormMDI.Materia.resources
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\obj\Debug\FormMDI.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\obj\Debug\FormMDI.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\obj\Debug\FormMDI.exe
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\obj\Debug\FormMDI.xml
+C:\Users\JAEL\Documents\Progra Vis\FormMDI\FormMDI\obj\Debug\FormMDI.pdb

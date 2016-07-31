@@ -1,0 +1,9 @@
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\bin\Debug\Property_Persona.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\bin\Debug\Property_Persona.exe
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\bin\Debug\Property_Persona.pdb
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\bin\Debug\Property_Persona.xml
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\obj\Debug\Property_Persona.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\obj\Debug\Property_Persona.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\obj\Debug\Property_Persona.exe
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\obj\Debug\Property_Persona.xml
+C:\Users\JAEL\Documents\Progra Vis\Property_Persona\Property_Persona\obj\Debug\Property_Persona.pdb

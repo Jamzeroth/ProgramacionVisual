@@ -1,0 +1,13 @@
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\bin\Debug\AplicacionDll.exe.config
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\bin\Debug\AplicacionDll.exe
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\bin\Debug\AplicacionDll.pdb
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\bin\Debug\AplicacionDll.xml
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\bin\Debug\EjemploDll.dll
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\bin\Debug\EjemploDll.pdb
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\obj\Debug\AplicacionDll.vbprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\obj\Debug\AplicacionDll.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\obj\Debug\AplicacionDll.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\obj\Debug\AplicacionDll.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\obj\Debug\AplicacionDll.exe
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\obj\Debug\AplicacionDll.xml
+C:\Users\JAEL\Documents\Progra Vis\AplicacionDll\AplicacionDll\obj\Debug\AplicacionDll.pdb

@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\bin\Debug\Procedimientos.xml
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\obj\Debug\Procedimientos.xml
+C:\Users\JAEL\Documents\Progra Vis\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb

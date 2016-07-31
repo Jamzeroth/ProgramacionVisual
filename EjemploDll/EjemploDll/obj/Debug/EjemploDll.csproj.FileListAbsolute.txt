@@ -1,0 +1,5 @@
+C:\Users\JAEL\Documents\Progra Vis\EjemploDll\EjemploDll\bin\Debug\EjemploDll.dll
+C:\Users\JAEL\Documents\Progra Vis\EjemploDll\EjemploDll\bin\Debug\EjemploDll.pdb
+C:\Users\JAEL\Documents\Progra Vis\EjemploDll\EjemploDll\obj\Debug\EjemploDll.csprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\EjemploDll\EjemploDll\obj\Debug\EjemploDll.dll
+C:\Users\JAEL\Documents\Progra Vis\EjemploDll\EjemploDll\obj\Debug\EjemploDll.pdb

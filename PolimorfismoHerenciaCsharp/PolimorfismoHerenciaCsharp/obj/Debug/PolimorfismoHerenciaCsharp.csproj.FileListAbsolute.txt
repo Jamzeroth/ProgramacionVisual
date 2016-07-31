@@ -1,0 +1,6 @@
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoHerenciaCsharp\PolimorfismoHerenciaCsharp\bin\Debug\PolimorfismoHerenciaCsharp.exe.config
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoHerenciaCsharp\PolimorfismoHerenciaCsharp\bin\Debug\PolimorfismoHerenciaCsharp.exe
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoHerenciaCsharp\PolimorfismoHerenciaCsharp\bin\Debug\PolimorfismoHerenciaCsharp.pdb
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoHerenciaCsharp\PolimorfismoHerenciaCsharp\obj\Debug\PolimorfismoHerenciaCsharp.csprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoHerenciaCsharp\PolimorfismoHerenciaCsharp\obj\Debug\PolimorfismoHerenciaCsharp.exe
+C:\Users\JAEL\Documents\Progra Vis\PolimorfismoHerenciaCsharp\PolimorfismoHerenciaCsharp\obj\Debug\PolimorfismoHerenciaCsharp.pdb

@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\bin\Debug\ClaseVehiculo.exe.config
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\bin\Debug\ClaseVehiculo.exe
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\bin\Debug\ClaseVehiculo.pdb
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\bin\Debug\ClaseVehiculo.xml
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\obj\Debug\ClaseVehiculo.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\obj\Debug\ClaseVehiculo.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\obj\Debug\ClaseVehiculo.exe
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\obj\Debug\ClaseVehiculo.xml
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\obj\Debug\ClaseVehiculo.pdb
+C:\Users\JAEL\Documents\Progra Vis\ClaseVehiculo\ClaseVehiculo\obj\Debug\ClaseVehiculo.vbprojResolveAssemblyReference.cache

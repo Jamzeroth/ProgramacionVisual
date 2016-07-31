@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\bin\Debug\Vector_Lista.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\bin\Debug\Vector_Lista.exe
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\bin\Debug\Vector_Lista.pdb
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\bin\Debug\Vector_Lista.xml
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\obj\Debug\Vector_Lista.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\obj\Debug\Vector_Lista.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\obj\Debug\Vector_Lista.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\obj\Debug\Vector_Lista.exe
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\obj\Debug\Vector_Lista.xml
+C:\Users\JAEL\Documents\Progra Vis\Vector_Lista\Vector_Lista\obj\Debug\Vector_Lista.pdb

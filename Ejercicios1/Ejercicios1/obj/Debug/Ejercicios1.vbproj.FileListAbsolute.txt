@@ -1,0 +1,15 @@
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\bin\Debug\Ejercicios1.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\bin\Debug\Ejercicios1.exe
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\bin\Debug\Ejercicios1.pdb
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\bin\Debug\Ejercicios1.xml
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.Ejer1.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.exe
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.xml
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.pdb
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.Ejer2.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.Menu.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.Ejer3.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.Ejer4.resources
+C:\Users\JAEL\Documents\Progra Vis\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.Ejer5.resources

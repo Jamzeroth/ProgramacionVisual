@@ -1,0 +1,6 @@
+C:\Users\JAEL\Documents\Progra Vis\CA_persona_CSharp\CA_persona_CSharp\bin\Debug\CA_persona_CSharp.exe.config
+C:\Users\JAEL\Documents\Progra Vis\CA_persona_CSharp\CA_persona_CSharp\bin\Debug\CA_persona_CSharp.exe
+C:\Users\JAEL\Documents\Progra Vis\CA_persona_CSharp\CA_persona_CSharp\bin\Debug\CA_persona_CSharp.pdb
+C:\Users\JAEL\Documents\Progra Vis\CA_persona_CSharp\CA_persona_CSharp\obj\Debug\CA_persona_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\CA_persona_CSharp\CA_persona_CSharp\obj\Debug\CA_persona_CSharp.exe
+C:\Users\JAEL\Documents\Progra Vis\CA_persona_CSharp\CA_persona_CSharp\obj\Debug\CA_persona_CSharp.pdb

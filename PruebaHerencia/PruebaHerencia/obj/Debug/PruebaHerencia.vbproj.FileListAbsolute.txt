@@ -1,0 +1,13 @@
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\bin\Debug\PruebaHerencia.exe.config
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\bin\Debug\PruebaHerencia.exe
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\bin\Debug\PruebaHerencia.pdb
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\bin\Debug\PruebaHerencia.xml
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.MENU.resources
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.Producto1.resources
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.exe
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.xml
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.pdb
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.Organico.resources
+C:\Users\JAEL\Documents\Progra Vis\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.Inorganico1.resources

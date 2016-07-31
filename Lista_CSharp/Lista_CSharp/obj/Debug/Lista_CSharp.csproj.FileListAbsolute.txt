@@ -1,0 +1,9 @@
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\bin\Debug\Lista_CSharp.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\bin\Debug\Lista_CSharp.exe
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\bin\Debug\Lista_CSharp.pdb
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\obj\Debug\Lista_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\obj\Debug\Lista_CSharp.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\obj\Debug\Lista_CSharp.Properties.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\obj\Debug\Lista_CSharp.csproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\obj\Debug\Lista_CSharp.exe
+C:\Users\JAEL\Documents\Progra Vis\Lista_CSharp\Lista_CSharp\obj\Debug\Lista_CSharp.pdb

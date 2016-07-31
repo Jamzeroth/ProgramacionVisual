@@ -1,0 +1,13 @@
+C:\Users\JAEL\Documents\Progra Vis\HCSZapato\HCSZapato\bin\Debug\HCSZapato.exe.config
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\bin\Debug\HCSZapato.exe.config
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.csprojResolveAssemblyReference.cache
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.Casual1.resources
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.Deportivo1.resources
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.MENU.resources
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.Properties.Resources.resources
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.Zapato1.resources
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.csproj.GenerateResource.Cache
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\bin\Debug\HCSZapato.exe
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\bin\Debug\HCSZapato.pdb
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.exe
+C:\Users\JAEL\Desktop\HCSZapato\HCSZapato\obj\Debug\HCSZapato.pdb

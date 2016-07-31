@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\bin\Debug\Funciones.exe
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\bin\Debug\Funciones.pdb
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\bin\Debug\Funciones.xml
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\obj\Debug\Funciones.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\obj\Debug\Funciones.exe
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\obj\Debug\Funciones.xml
+C:\Users\JAEL\Documents\Progra Vis\Funciones\Funciones\obj\Debug\Funciones.pdb

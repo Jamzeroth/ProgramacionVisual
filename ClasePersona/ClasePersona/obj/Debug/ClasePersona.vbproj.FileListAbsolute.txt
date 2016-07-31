@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\bin\Debug\ClasePersona.exe.config
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\obj\Debug\ClasePersona.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\obj\Debug\ClasePersona.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\bin\Debug\ClasePersona.exe
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\bin\Debug\ClasePersona.pdb
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\bin\Debug\ClasePersona.xml
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\obj\Debug\ClasePersona.exe
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\obj\Debug\ClasePersona.xml
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\obj\Debug\ClasePersona.pdb
+C:\Users\JAEL\Documents\Progra Vis\ClasePersona\ClasePersona\obj\Debug\ClasePersona.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\bin\Debug\OnErrorManejodeErrores.exe.config
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\bin\Debug\OnErrorManejodeErrores.exe
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\bin\Debug\OnErrorManejodeErrores.pdb
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\bin\Debug\OnErrorManejodeErrores.xml
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\obj\Debug\OnErrorManejodeErrores.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\obj\Debug\OnErrorManejodeErrores.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\obj\Debug\OnErrorManejodeErrores.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\obj\Debug\OnErrorManejodeErrores.exe
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\obj\Debug\OnErrorManejodeErrores.xml
+C:\Users\JAEL\Documents\Progra Vis\OnErrorManejodeErrores\OnErrorManejodeErrores\obj\Debug\OnErrorManejodeErrores.pdb

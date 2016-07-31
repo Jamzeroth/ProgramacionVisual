@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\obj\Debug\TryCatch.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\obj\Debug\TryCatch.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\obj\Debug\TryCatch.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\bin\Debug\TryCatch.xml
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\obj\Debug\TryCatch.xml
+C:\Users\JAEL\Documents\Progra Vis\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

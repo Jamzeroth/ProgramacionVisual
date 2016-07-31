@@ -1,0 +1,12 @@
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\bin\Debug\HPoligonos.exe.config
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\bin\Debug\HPoligonos.exe
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\bin\Debug\HPoligonos.pdb
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\bin\Debug\HPoligonos.xml
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.MENU.resources
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.Rectangulo1.resources
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.Triangulo1.resources
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.exe
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.xml
+C:\Users\JAEL\Documents\Progra Vis\HPoligonos\HPoligonos\obj\Debug\HPoligonos.pdb

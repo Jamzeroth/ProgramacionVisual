@@ -1,0 +1,10 @@
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\bin\Debug\ChartGraficos.exe.config
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\bin\Debug\ChartGraficos.exe
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\bin\Debug\ChartGraficos.pdb
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\bin\Debug\ChartGraficos.xml
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\obj\Debug\ChartGraficos.Form1.resources
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\obj\Debug\ChartGraficos.Resources.resources
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\obj\Debug\ChartGraficos.vbproj.GenerateResource.Cache
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\obj\Debug\ChartGraficos.exe
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\obj\Debug\ChartGraficos.xml
+C:\Users\JAEL\Documents\Progra Vis\ChartGraficos\ChartGraficos\obj\Debug\ChartGraficos.pdb
