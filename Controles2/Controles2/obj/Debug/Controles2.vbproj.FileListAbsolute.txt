@@ -9,3 +9,14 @@ C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.ex
 C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.xml
 C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.pdb
 C:\Users\JAEL\Documents\Progra Vis\Controles2\Controles2\obj\Debug\Controles2.InputBoxhola.resources
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\bin\Debug\Controles2.exe.config
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\obj\Debug\Controles2.exe
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\obj\Debug\Controles2.xml
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\obj\Debug\Controles2.pdb
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\bin\Debug\Controles2.exe
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\bin\Debug\Controles2.pdb
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\bin\Debug\Controles2.xml
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\obj\Debug\Controles2.MsgBox.resources
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\obj\Debug\Controles2.InputBoxhola.resources
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\obj\Debug\Controles2.Resources.resources
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles2\Controles2\obj\Debug\Controles2.vbproj.GenerateResource.Cache

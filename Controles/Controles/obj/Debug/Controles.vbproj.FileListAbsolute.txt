@@ -21,3 +21,7 @@ C:\Users\JAEL\Documents\Progra Vis\Controles\Controles\obj\Debug\Controles.Image
 C:\Users\JAEL\Documents\Progra Vis\Controles\Controles\obj\Debug\Controles.LinkLabel.resources
 C:\Users\JAEL\Documents\Progra Vis\Controles\Controles\obj\Debug\Controles.ListView.resources
 C:\Users\JAEL\Documents\Progra Vis\Controles\Controles\obj\Debug\Controles.MaskedTextBox.resources
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles\Controles\bin\Debug\Controles.exe.config
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles\Controles\obj\Debug\Controles.exe
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles\Controles\obj\Debug\Controles.xml
+C:\Jael\Programacion\Ejemplos\ProgramacionVisual\Controles\Controles\obj\Debug\Controles.pdb

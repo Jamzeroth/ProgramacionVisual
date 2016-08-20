@@ -11,4 +11,8 @@
         End If
         MessageBox.Show("El resultado es: " + CStr(CInt(a) + CInt(b)), "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Information)
     End Sub
+
+    Private Sub InputBoxhola_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
